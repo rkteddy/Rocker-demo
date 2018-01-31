@@ -1,6 +1,8 @@
 # Rocker-demo  
 
 Custom view implementing rocker operation and real-time angle callback via Kotlin  
+  
+![Demostration](https://github.com/rkteddy/rocker-demo/blob/master/demo.gif)
 
 # Deployment  
 
